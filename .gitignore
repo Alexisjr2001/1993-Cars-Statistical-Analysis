@@ -1,0 +1,9 @@
+# Ignore R environment files
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore large archives (so you don't upload the .rar to GitHub)
+archive/
+*.rar
+*.zip
