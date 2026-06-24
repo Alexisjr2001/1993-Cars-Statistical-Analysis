@@ -61,14 +61,11 @@ The workflow spans from initial data cleaning and advanced regression imputation
 
 ## ⚙️ How to Run the Analysis
 
-1. Clone the repository:
-
-```bash
-    git clone [https://github.com/Alexisjr2001/YOUR-REPO-NAME.git](https://github.com/Alexisjr2001/YOUR-REPO-NAME.git)
-    ```
+1. Clone the repository: git clone [https://github.com/Alexisjr2001/1993-Cars-Statistical-Analysis](https://github.com/Alexisjr2001/1993-Cars-Statistical-Analysis)
 2.  Open the `Statistical-Analysis-Project.Rproj` file in **RStudio**. This will automatically set the correct working directory.
 3.  Navigate to the `scripts/` folder.
 4.  Run the scripts sequentially, starting with `01_Data_Preparation.R`. This script will read from `data/raw/` and generate the `cleaned_93Cars.csv` file inside `data/processed/`, which is required for all subsequent scripts.
+
 
 ## 📈 Key Findings
 
